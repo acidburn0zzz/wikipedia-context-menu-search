@@ -1,2 +1,2 @@
 #Wikipedia Context Menu Search
-A basic add-on
+Firefox Addon to Search for highlighted text on Wikipedia via the context menu.
