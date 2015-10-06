@@ -2,7 +2,7 @@
   "title": "Wikipedia Context Menu Search",
   "name": "wikipediacontextmenusearch",
   "version": "0.0.2",
-  "description": "A basic add-on",
+  "description": "Search for highlighted text on Wikipedia via the context menu.",
   "main": "index.js",
   "author": "Nick Diedrich",
   "engines": {
